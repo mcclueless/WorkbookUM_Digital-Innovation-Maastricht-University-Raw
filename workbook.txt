@@ -1,0 +1,986 @@
+==== August 2017 ==== Init-
+10 August
+- The video McLuhan Taps
+-- Contacted McGill Library per webform (>bernd.kapeller@maastrichtuniversity) and Sarah Severson
+-- Contacted University of Vermont Libaries (>bernd.kapeller@maastrichtuniversity.nl)
+-- Contacted Harvard Widener Library (>bernd.kapeller@maastrichtuniversity.nl
+-- Contacted Boston College Libraries (>bernd.kapeller@maastrichtuniversity.nl)
+
+
++  More to contact
+
+-- Meeting with Manon
++-- Part of the interviews for innovation junior post
++-- Order laptop okay
+--- wants regular feedback like myself
+--- Michiel & Roos will make sure things gets ongoingly developed and Myself and a junior developer will be here for innovations
+--- Will still do some work for 
+
+
+11 August
+-- check proposal from Manon and provide a solution
+-- Print out documents for pauline and DHL
+-- Get the flyer from DHL (apple auflade stecker) and ask where to pick it up
+--+ Go the to UM post office and look for the letter from DHL for the overhead folies
+-- Start a Udacity training
+-- Get address from Leann
+-- Work on the lecture further
+--+ contact Rendy, Daniel and The friend of Kim
+-- Get address for Leann
+-- Check out Merlin Website for idea and 360 video footage
+--- Write a script
+--- Find apporopriate Oculus
+--- Check AWS and get Renees website off it to transip
+
+
+12 August
+-- Cleaning up of AWS
+-- Transfered of Renees website to TransIP (3,65E/month) runs faster
+-- Thijs finished Ratings, Recipes and some small items
+-- Working on Mockups for pendo.pro 
+-- Email request to Kim, answered Daniel and checked Amazon delivery
+-- Notebook MacPro comes on Monday
+
+Todo:
++-- Contact fabian from Finalist
++-- Setting up Bucket S3 and CloudFront proper and test
++-- Calculate estimated traffic
++-- Don't forget to send emails to libaryies!
+
+15 August
+-- Send programme manager a mail
+-- download ogg and webm files and upload them onto S3
+
+16 August
+-- McLuhan video lecture 18 September 1967
+-- Look for Driving Auffrischungskurs
+-- Suche Masten fuer Mario
+-- Marress Aufnahmen schneiden
+-- SSD drive abholen (kaufen)
+
+17 August
+-- Little more then setting up my new monster
+
+…
+
+==== September 2017 ====
+
+1. Sep
+- DB for the test environment is needed
+- working on emails
+- setup desk
+- Drinks in the morning; 9 times per year; networking party
+- MUO has 160 staff
+- Italian girl is policy advisor research to Martin Paul; works 2 1/2 years; worked in US - Phil and Wash - and finds it hard to get good pasta
+- Att is an anti. Does not show any respectful behavior.
+- Coffee machine has sensor issues but good coffee
+- Floor is nice and hallway quiet
+- Office has windows and is reasonably big
+
+
+2. Sep
+- First friday at work
+- Sebastiaan is on holiday or off
+- TODO: Put holiday into IMAR | Setup aut reply on webc-sbe email | 
+* Setup domain name for localhost using httpd-vhosts.conf in MAMP and changes in the /etc/hosts file . Changing the first sets the MAMP settings and the second the local hosts routing settings. Works out fine!
+- Connecting Sequel Pro and connect it to the dev env
+- Setup homebrew package manager
+* Some work for Dep of Econ | still need to follow up
+
+
+
+18. Sep
+- Applicants for the position of Junior Developer:
+-- Meirgul Kudabayeva: Not the right profile
+-- David Tantono: Not the correct profile; actually far off
+-- Thijs Smits: Suitable technical profile| not independent | personal opinion: too much responsibility for me >> INVITE
+-- Koen van Leeuwe: Broad skill set of basic technical concepts and experience in consultancy | fairly old: 56 years old! | Is unemployed for one year
+-- Remy Gorissen: Suitable technical profile and work experience >> INVITE: Request Portfolio
+-- M. van der Leegte: Not the right profile
+-- Gerben de Jong: Not the right profile
+-- Hendrikx Sjanine: Core skills do not fit profile (she is designer not developer) | But a training in the arts positive 
+-- Rick Sollet: Solid PHP profile and experience >> INVITE: Request Portfolio or Reference from Startkabel.nl VOF.
+
+>> To invite: (Thijs Smits), Rick Sollet and Remy Gorissen
+
+
+
+PROJECT DAH.AM : A Gamentary of our homeland
+- Download Unity 3d and Sketchup 3d
+-- Unity 3d requires extra dependables and standard assets
+-- For usage on mobile (android and iOS) the SDK of Java, Android and Xcode are needed
+- Digitalize the miniDV tapes and the VHS cassets 
+- Register the domain: daham.at or dah.am is am scheansten 
+
+Game idea:
+Develop an explorative game that allows a character to investigate the history of the oxengarten and how Stefanie made it her home.
+
+The game should run on Android and iPhone as well as a VR build for the Google Daydream platform and Oculus DK2.
+
+Gameplay:
+The gameplay is similar to Monkey Island: The discovery of objects and clues like bits and pieces of the story. The story starts with the dead of Stefanie and retells the history of her life through fragments in a virtual, interactive environment. It deals in a playful manner with historical facts in a personal context and involes so the viewer as player in a history that is not package but process.
+
+Questions regarding development:
+Is game paused or does it freeze automatically?
+Is the play tied to real timew in the sense that it reminds the player to discover anew. And if so, what changes from one freeze to the next?
+
+
+Development time: 1 Month #daham
+
+Goal: Develop the first episode of the game and port it to both android platform.
+
+Story: The story starts with the habitation of the Oxengarten by Stefanie and ends with the building of the stable. The scene is simple and it is spring.
+The terrain is magical and it plays in the years before Stefanie got married and moved here.
+
+Milestones 1:
+
+- Create a terrain from either the Unity Plugin or the colour gradient terrain app, the terrain should cover the whole of oxengarten 
+- Create a day/night cycle within the map with a moon and a sun
+- Create a session cycle within the map that change the entire terrain and weather (clear sky, fog, snow and rain)
+
+Milestone 2: 
+
+- Create textures and objects such as trees and grass fields, fences and an infinite run
+- Create a background similar to the skybox to create the backdrop for the map or world and see how to incorporate a 360 degree photo
+- Create characters such as a dog, chickens, swine and persons such as grandmum that walk around in the scene and maybe talk
+
+Milestone 3:
+
+- Create a movable character mechanics that allows the user to "walk through" the world as an ego perspective
+- Create infinite terrain borders that give the illusion of an open world
+- Create an on screen joystick that moves the character in the world
+- Create discoverable elements that contain a media element such as an image, sound clip or video clip or text
+
+Milestone 4:
+
+- Create a logic that starts and ends the episode (a sort of intor and outro)
+- Port the version to the android phone and test it
+- Make a project website and make the game available on the Play market
+================================
+4th December is reelection: Make a mobile game: Squeez the bug and launch it on Android and iOS; make a tiny marketing page and run a display campaign
+Title: Der Krüpel und der Alte: 
+
+- Take existing Unity framework and adjust it; test it on Android and submit it to the store.
+
+
+================================
+Take Udacity Courses:
+- Deploying on Heroku
+- MVC and Sinatra Framework 
+
+- Introduction to Android Dev
+- Monetizing your App
+
+================================
+- Finish McLuhan Recordings and promote them on Wikipedia, Quora, Reddit
+- Download and purchase Dash and Transport
+
+
+
+
+19. September
+- Meet Bernie - Legal Affairs Office next door
+- Meeting with SBE staff to discuss handover
+- Some problems maintain: Changes on websites > Michel, Building of larger sections > Frie, Transfer of websites from Superior > SBE: MEEE, Transfer from everything else to ICTS most likely not happening.
+- M does not want that fingers point to our unit
+- MH came in to complain that workload is too high
+- P is not in the office
+- Meeting with legal department; timeline for the video fix is necessary
+- Waiting for dump database 
+- Isabella hat grantiges email geschrieben ohne eigentlichen Inhalt oder beschreibung der Ursachen ihres Unmutes
+- Frie hat Fehler gemacht
+- Workflow in Drupal ist rollen bassiert und wird sich wohl nicht aendern
+
+20. September
+- Phillip does forward emails to the board about the website's inconveniences
+- Isabella makes no point what so ever: Additional programmes do not attract more than 1% of students | and department pages only offers information about the side effects of their educational offerings | personal profiles are not used and its use should be encouraged.
+- Send email to Monique; all good. Automated reports from Google Analytics
+- Everybody sits here in the screen. talking time <= 20%; 
+- Contacted Ivon from the legal department: waiting fr response to questions about youtube and amazon aws usage for video content
+- There are no personalized notices or plates on the door as there are at SBE
+
+
+21. September
+- 15 Euro for PC / SSD extra but 4GB ram and no monitor or other stuff
+- Email to Monique
+- Talk with Manon - Problem was that current vacancy is 1fte and if the potential candidate says he is fine with 0.8 then I get the missing 0.2fte. Apparently the vacancy cannot be adjusted. The vacancy is not online. 9 candidates applied only one will be invited, if he shows up. 
+- To do: Work on department websites, send Frie an email with update from the guy and check when they update the website. Meet with 
+- Was at Cecile and she will send me a list of changes for the department website while Frie and Lars make them online
+- Milly was also in good mood; will give training and follow up meetups on a monthly basis, needs to be communicated to Monique
+- Told me about the 5 projects and the backleash of todo's because they run out of money; has reservations about ideas to have developer ops in-house
+- Elke lukas will get full access rights; Joyce and Miranda still need to meet coming week Tuesday> Plan a meeting; 
+- hbomonitor gets a Google analytics and google remarketing tag; Need to contact Robin for more info on DNS setting; 
+
+
+22. September
+- When the globe becomes a village the city becomes the microcosm of the industrial state
+: Make a payment form in paypal and an out of office text for friday: Dear sender, Due to some unexpected changes in my contract I do not get payed for my work on Friday. If you need my help please go to my paypal form and transfer me the amount you think is fair. Please mention your name and email subject. As soon as your payment is confirmed I will work on your email request and answer in due time. 
+
+Kind regards,
+Bernd
+
+- The air here is so thin that nothing grows here. 
+- Michiel is playing firemen: He has no time and the minisite project is not starting before october.
+- Contacted Ann van Stralen about AIM; No reactions OS should launch too today
+- Finalist: Michil does not understand Git, manon also does not know where it is installed, the questions that we want to ask are not really sound.
+
+- Team buliding meeting please see notes
+- Send Julienne address of cologne restaurant > DONE 
+- Contact director of the fine arts institute HZ
+
+
+
+23. September
+- Friday: Off
+- Wrote application to Strabag
+- Woke up late :/ 
+- Read emails but did not reply
+- Worked on 2nd McLuhan Video seminar
+- Went to secretaries
+- do not get a webcam from sbe / all budgetnumbers needed
+- Worked on Twitch and broadcasting software / rendered McLuhan
+- Went to Kim; See notes; send links for virtual marshall mcluhan institute
+- 
+
+24/25
+- Editing 3MM videos
+
+26. September
+- Talked with Milly; Interesting note: 4 projects: PPP, multisites, Intranet, Website, + Support 
+- Speedtest at UM: Ping 17ms | Download: 15,77 Mbps | Upload: 0.75 Mbps
+- Speedtest at Maastricht Home: Ping 104ms | 9.94 Mbps | Upload: 2,41 Mbps
+- Speedtest at Home kaernten: 5 Mbps Download | 1 Mbps Up...
+- Contact Marc Lyon and ask questions about the personal profile pages. Publish them on the mysbe.nl/renewdwebsite
+- Start with the blog again
+- Milly and the other guy are not willing to write a manual | Manon says
+
+
+27. September
+- Planing a meeting with Annabel and check if her requirements meet with the features youtube offers
+- Trump vs Hillary = UM vs. other versil nties = Advertisement dollar vs. DIY 
+- When Robin conntacts me or hbomonitor.nl is online send GA property + Remarketing tag
+- Look into Lissanne: Doning registration with SAP CRM. They want to compare the people who signed up for an open day with those who show up
+- Custo - the new webcare system; the contract is settled 24.000 euro for some years to come; 
+- Vacancy update: First vacancy text was not written by manon; Second one had the wrong recipient (Manon Winneke ICTS); This explains everything
+- Meeting with Miranda and Joyce: iemfc will be taken care 
+- Send code snippets for hbomonitor to Robin 
+- > Send question to Jeroen about the implementation of the Remarketing tag
+- > Send a email to Ivone (legal) and prepare Annabel for the change
+> Cloey wants to give me Garfield movie
+
+Daham project #daham
+> Terrain generator for low polygons would cost 50 Euro
+- Nested objects such as a camera and third person character is just like using layers in photoshop
+- Scripts can be added by drag and drops and event triggers set actions such as appearing or dissapearing of objects
+- Assets can be incorporated automatically and the build exported using the SDK of the devices
+- Character movement is still dependend on the input device. The keys control does not work to full satisfaction or is wrong
+- It is best to focus on one build > properly android and the implementation of a controller unit
+- Building of a third person character running around is no option. Character should not be visible!
+- Overall style is relevant - low polygon look and feel using comercial script and assets is good. 
+
+Todo Models for Maastricht work
+
+
+28. September
+- Long Meeting about coming up projects
+>> Weekly meeting | Documents to be send | List with plans: for me Blog and Digital Brochures 
+- Meeting with Annabel: Worked as Dutch language docent, did training to become a carpenter, works since 8 years for the video
+- Problem: Brigtcove eats up resources | we are stuck to a contract who's limit we currently exceed | we are on a pay as you go right now that will cost us 1000 Euro for one month if we don't change anything.
+- Proposed solution: Moving to Youtube and Amazon AWS. Developing a module for in Drupal using the videojs.com js framework
+- Annabel is married to the video project; reacts very emotional and dissmisal to advertisment and youtube as possible solution; The 5 stages of grief reflect well her dismay about the possible change. 
+
+Arguments brought up against the sole use of youtube as video management system as opposed to the current setup of youtube and Brightcove (BC is mainly used as video archiving system; It use inside Drupal is header videos are selected from the media library; Jean Pierre does so):
+
+- Youtube puts Advertisment on videos for which the UM does not have all rights
+This happens f.e. if a student makes a video of his semester abroad and puts the soundtrack of Michel Jackson in the background. Youtube leaves the video online but puts advertisment in it that whos revenue are shared between the content right owner and youtube. This is a semi automated system that youtube puts in place and has agreed with all major music labels and other rights owner societies. Not judging the quality of the video per se it is not professional to use or distribute content for which the UM has not all rights.
+
+This does not happen for videos that use copyright free audio or video footage which is the usual case when working with third parties such as T36 and others. No advertisment appears on such videos.
+
+>>>NO PROB
+
+- Video URL changes when f.e. a new version of the video is uploaded
+This is true and there is no workaround. Every video that gets uploaded or reuploaded will receive a new URL. Practically the workaround is to double check each video befor uploading it that all information is correct. Meta information such as recording date, title, location, etc.... is editable after the video is uploaded and editable.
+
+>>YES
+
+- Playlists cannot be embedded on the Drupal website.
+This is true for Brightcove and for Youtube alike. If a solution is needed then it needs to be implemented in either way.
+
+>>NEUTRAL
+
+- Look and Feel of the player cannot be adjusted
+This refers to the overlay of either the youtube logo and the play button that has the iconic status of the famous video service. The current solution can serve as an example in point: I have screenshots of how the video looks on the page 1. Youtube and 2. Brightcove
+
+>>NO PROBL
+
+- Backend system that lists videos, creates playlists and offers analytics is not good
+Youtube has also a backend with apps and allows for all and even more functionality then the Brightcove solution. 
+>>NO PROBL
+
+
+
+Maybe what Annabel needs is a solid backup solution and a management system for the videos that is both solid and accessible. Maybe Ger would be able to help out and provide the later part.
+
+One major argument was that it does not look professional to use youtube. The point remains the same. The costs for this solution until 2021 is likely to exceed the 39.600 Euro which does not include fact that Bandwith, Storage is likely to double every two years. 
+
+29. September
+
+- Todo Send Michiel Horns the link to Udacity.nl
+- Give them Cardboard
+- Job interview: Check list of projects; Everyone was very positive
+> Setup Adsense on Blog
+> Make sure forms and newsletters are taken over
+> Contact Ger/SV for meetup
+
+30. September
+- Update: #Daham project <Android_Test project file>
+Worked on tutorial and made a built and live previewed it during production. The export went well; This video https://www.youtube.com/watch?v=xdEPRZUEwgY tutorial used.
+- Installed Android SDK plus Studio and also JavaSDK
+- Using Multipurpose Camera Rig as prefab and adusted settings so it does not rotate | works good
+- The build is done using both SDK's and some settings that specify;
+- In player settings > Other Settings > Identification> Bundler Identifier | Company and Product name needs to match exactly the one in the Player Settings
+- In the project the only thing is a script that allows the mobile phones tilt to be utilized as controller. This is done by simply tagging the script as "Game Controller"
+- The C# CrossPlatformInputInitialize is also needed and either an standard asset or importet
+- You can create a folder in the Assets window and drag a scene in it. Scenes are actually saved or stored and build separately. 
+
+
+31. September
+- Update: #Daham project
+- Decided to skip import of hightmap and instead using a terrain and a satelite shot as material. The sculpturing of the area is done by hand. This gives best results; Maybe not the fastest.
+- Worked on separeat aspects and discovered two things: 1. Adding a Mash Collider makes mashes solid 2. An image can be imported as texture and turned into a material that is then used on a mash
+- One script that shows a GUI that does the following: if the player comes close to a collider box (which is an empty 3d element where the mash rendere is deactivated and the box collider setting is on) that contains the script it shows a GUI interface f.e. a picture in the frontal view of the player. Works nice and is the first script that worked.
+
+
+1. October
+
+
+3. October
+> Check Funda > Check
+> Fill out questionair of the muses >Check
+> Send update email to Philip, Monique and Michel >Check
+> Send email to Aal, Esther and co for a small feedback #Frie could do it >Check
+> Give feedback to Manon's presentation 
+> Print out and make folder for Education Miles >Check
+> Print out Report 69 >Check
+> Contact Ger and talk with Annabel
+> Import or install Google VR SDK for Android and Daydream VR >Check, first tests work
+> Order 2,5 case for HDD and maybe a good IP security cam
+> Check Emails > Check 
+> Send Ellen links to Feuerberg and Turrach > Check
+> Meeting with Lisanne on the QR code issue that I prosponed. What they want is that registered students (who register for an open day) receive in the confirmation a QR code. This QR code is scanned in front of every session by a student assistent using a tablet or phone. What they want to do is to track student registrations plus student show-ups on programmes. > Done
+
+
+
+4. October
+- Ask Jeroen to make custom GA reports for Monique or what his plan about it is > Done.
+- Call Harold Hassink back > Check
+- Meeting with Jeroen > Check, went well. Likes the Education Miles Idea. Has also a book about how to plant ideas that later become reality. 
+- Write back email of Joan > Check
+- Contact thijs and use his contact for project for Manon
+- Discussing the ideas with Jeroen over a coffee. There is nothing new from his side. Is busy with finding his way. Need to send him and Monique an email with the request for the automated Google Analytics report. 
+- Reading the legal documents and everything is going to be alright. #Todo: Finalize Report for the change to Michiel and discuss how to put it into the system. 
+- Meeting with Annabel: She mentions that she feel that I take away her ferrarie (Brightcove) and give her a brummer (Youtube)
+- Creating simple mockups of a. Chatbot application and b. VR Game c. The Study Chance Calculator (Big Data Thingy)
+
+5. October
+- Contact Person from publication.maastrichtuniversity.nl and ask how I can use it to show on blog
+- Annabel changed the meetup to Monday
+- Upload of Mcluhan video
+- working on Hologram Receiver Project description
+- 
+
+
+10. October
+- Learn how to make a simple menu in Unity > Done
+- Producing one MM video > Process
+- Finish up Report on DI2/2016: Add recommendation and check before meeting tomorrow > Done.
+- Reade feedback from ICTS regarding DI2 > Done.
+- Build a spider in scrapy that can retrieve URL of a page where a "youtube" or "brightcove" shortcode is embedded
+- Follow up on DI3: Contact Remko on how to build the forms & read the request for change protocoll
+- Follow up on DI4: How to get list of publications on a page and filter them?
+- Creating Mockups as discussed above a. Chatbot application b. VR Game and c. Study hcance calculator
+-- Learn more about Big Data: See udacity course
+-- Investigate Chatbot applications and their usage for integration with 
+- Order 2,5 case for HDD and maybe a good IP security cam
+- Go on with udacity javascript tutorial
+- Finalize feedback of Manon's report
+- #UMWEB: It is interesting to see that “free” is often associated with “cheap”. Like “marketing and communication” should NOT be associated with “advertisement”.  
+
+- Worked on finalizing proposal and making a menu in Unity
+- Meet Harold Hassink for his camapign; He wants to send out a newsletter to the EMFC and asked me to compile the lists and prepare a new campaing using a new brochure. > Done
+- 
+
+11. October
+- Milly and Patrick asked me to wait for Ivo Bleylevens who knows the ID's for the PUUR system to make it work inside
+- Answered some emails from SBE staff and adjustments > Done.
+- Meeting with Finalist and Michiel about the solution for the header videos: But Nick in CC and find out the resolutions used by brightcove.
+- Checked out Google VR SDK to make simple interactions with objects and UI elements
+- Make Harold's Campaing and lists ready > Done
+- Ask Joan to provide a legally sound consense form for all audiovisual content produced by UM in Dutch and English. In this case we can mitigate the legal insecurities once for all. > done.
+- Update the DI P4 document and send Nicole and Dunja an email. Message: everything is clear and discussed so the next step is to have Frie build it. > Done.
+- Answer Annabel and ask her what points she wants me to investigate > Done
+- Dirk Templaars website got hacked with VIAGRA ads. He might need the scip to get on top again. Check is on Todo list
+- Book Train, Look for hotel and cancel appointment on Thursday > Done
+
+12. October
+- Working on MYSBE Newsletter
+- Retreived the 12 encoding settings used in Brightcove
+- Worked on newsletter for harold
+- #Finalist: Add information on the Profile Overview page: Title, Link to personal page and interests
+
+
+13. November
+- Exporting links to vidoes in Brightcove 778 exluding tag information
+- Checking out SEO techniques for Brightcove videos
+- Plan a meeting to discuss the move from Brightcove to Youtube
+- Go to pascalle and involve him in the DP1 Hologram
+- Ask Jean-Peirre and Marike for feedback on how to build it | Note packaging should reflect "Green" and "Sustainability" and the Confirmation of applications are send out per email only to students. (SBE)
+- Manon want to do stuff in house: Get iTunes account and Google Play account and credit card
+- Jan Nijhuis wants me to implement the thingies on the >Excellence page
+- Make sure that Pascalle or somebody builds the forms in Drupal for FASOS (r.frijns@maastrichtuniversity.nl)
+
+14. November
+- UM2069: Make a character of the president as tour guide. Remove horizon and keep it plain and in UM colour style; maybe with grid. Scene 1: Welcome word with voiceover and running tutorial Scene 2: Menu to choose from either a. start reel 2017 b. select current location (disabled in pilote) Scene 3: Choose character Scene 4: gameplay and introduction of the guide 
+- Getting up in the morning early. Cleaning and doing the washings. Went to market and Jumbo and Recyclingstation. Needed to cancel Kristaps for party due to lack of time. Afternoon working on UM2069. Tutorials on selecting a character and testing functionality. From 17:00 onwards cooking. At 7 visitors and drinks.
+
+15. November
+- Early morning; second visit house in Bunde. Nothing. To Wim and Carla having brunch. Back to Maastricht at 14:00. Working on hobby; primarily writing the project description and plans. The idea is to use the models from Sketch 3d and use Poly World to make them cartoon like. Rest in project description. Evening - at Six we went to Sittard. 
+
+16. November
+- Not too early morning. Working on hobby for 2 hours: Got Scene 1 - 3 mechanics ready. Need some more sphere: 1. Playing audio at scene start 2. Making plane in the same color and tiling white so as to create the illusion of space. 3. Add elements that make the scene more alive. Pauline got up, breakfast and plan was to meet at 12:30 Ronja. Went to Jumbo grocery shopping and for a walk with Nadja+Ronja. At 4:30 home; one hour finalizing hobby and then going for a run. Evening; Cooking, Eating and Cleaning.
+
+17. November
+- Contact ROA about Multisites - Done
+- #PPP Problem: Dirk Broeders profile does not contain first name last name. I think the info does not come from Employee Self Service (ESS)
+- make a video on how to  update / change your personal profile page
+- For downloading the video's from Brightcove a bulk downloader in the form of google chrome extension works. Lets assume I have the files that include the ID in a folder. In addition I also have a list in Google Sheets that contains links and tags and folder structure as a search pool. The search mask would be the usual google search bar.
+
+18. October 
+- It is funny to note that when watching two many series of the kind of Carnival - lots of nonlinear film techniques - my senese of time gets mixed up. One time I was not sure what if it was wednesday or tuesday (this was last week) and also in my notes I used November instead of October so I mixed up the month.
+- I worked the whole day on the Google Cardboard Virtual Tour. I also showed it to Joyce and others in the hope for some feedback. Manon did not saw the character selector and the rest did not really check the planet
+- Everything works okay and I got a script to play audio on collider, the menu and character selector works and except an exittrigger for the application everything is works
+- Needs to be optimized for screensize; the green dots are always out of focus or just two
+- A Daydream headset + a suitable mobile phone is necessary and also some additional models need to be bought
+- I need a pyjama, white shirts and something nice to wear inhouse; also look for hotel for the weekend; respond to Gabriel and Christian
+- Meeting with Jeroen and Leann; talked about improving Alumni website and VR experience. Leann wants some changes to be made to the website and Jeroen talked about a 360degree movie for marketing purposes on open days in particular to give students a feeling of the exchange programme; I showed him the gameification version of the app and he has the idea that students can download a brochure or request a brochure from within the game itself. As we ask permissions for every app. So why not also for this one. He also voiced the idea to use it for an open day; A simple app that allows everbody to listen to the presentation on an open day. They use https://mahara.org and https://www.kent.ac.uk/employabilitypoints/rewards-2016-17.html
+- Check out what it takes to register a Google Play account to distribute apps - Done
+- Check out the possibility to use prefab apps for the open day.
+- Register an account and write project plan. robert busink might have something in stock on this.
+- Mariken told me to ask Peggy from Zuiderlicht for an estimate and a full campaign proposal | the same for Mockus
+- Jim Rutte from the municipality might now zichtopmaastricht.nl which is a website that might have 3d buildings 
+
+19. October
+- See above
+
+20. October
+- UM2069 Project needs a gamefication element and characters that reflect the users self identity. What if we take for the characters a. prospective student b. Parent || and in a later iteration maybe Professor and current student. The goal is to help the player to find the other. F.e. If the player chooses the student then the task is to find the parent.
+
+- Updating DI P1: As an example is to use Rendies Paradise | Record SG lectures | or a collaboration with Maastricht TV
+- Contact Remy who is the SAP tech guy who build the webform
+- Make appointment with Aart van Willems. > Done
+- Meeting with Denis, Manon and Annabel, the meeting was professional and Annabel lost it at the end. Denis asked to create three scenarios upon which a decision needs to be made. 
+-- Big question was about SEO - What does it mean. The example was not vaild of the Campus tour. There is no SEO.
+- PBLVR a mini app that features only a classroom and a pbl session. 
+
+21. October
+- Update UM2069: The player must find his parents who got lost at the Open Day. After Sunset, the player's quest begins and while he learns about living and studying in magical Maastricht he discovers a big secret that will transform him. The university, yes the player himself is not what he thought he is. 
+
+On his quest the player meets people who just graduated, teach, or have lost their parents too and need his help. He need to solve simple puzzels and tasks that unlock little secrets that lead up to a 
+
+, muread signs and walk around in a magical Maastricht Open Day that came to an end.
+
+
+22. October
+- Send HR person email > Done
+- Send legal person reminder > Done
+- PREMIUM supervisor feedback > Done
+
+24. October
+- worked the whole day on the game. The title is After Open Day: The Tapijn Chapter is like a good title. I did the game map: which is the tapijn are which is great and free. I contacted the provider of the script and announced the problem I have with the bouncing back of the "player" from solid objects. The reason is that the rigid body value creates a force response based on that value. By setting the value to 0.0001 the problem is solved.
+- Purchasing of the Medieval World Pack.
+
+25. October
+- Talk with Manon; thinks my argument is weak; Website costs 3.0MillionEuro; Board had no problem to agree; Cases for internal us of a video management platform; Three points: 1. Management of Storage 2. User Management and 3. Findability of videos.
+- See above
+- Get Photoshop
+- Make an appointment with Ellen Bastians or Inge Römgens!
+- Get access to fileserver and tools server
+- Model is too big. The framerate drops significantly below what is needed to make it a great experience.
+- Good idea: give a exchange student a 360degree ball and let him make clips all over the world and upload it
+
+26. October
+- Contact Luc and get camera- Done
+- Contact Remy to check with SAP import
+
+27. October
+
+- https://onlinebetaalplatform.nl/nl/public is the Online Payment Provider used by the University; The worklfow is not yet clear but Michiel wants to know it.
+- Got Camera and went to Zuiderlicht; Good idea was to personalize the application by making the app to be able to connect to SAP CRM. Learned a lot: Either Gameplay is great or graphic is awesome; Its called White paper marketing when I give stuff away for free in exchange for personal data.
+- Write document for Aalt Willhem Heringa
+- Investigate Axel Solution for Annabel
+- Make the Mockup for the P1 Application
+- Finish the VR Application
+
+
+28. October
+- Talk with Nicole about the Categories
+- Talk with Michiel about bugs for the DI P4 project
+- Talk with Michiel also about the integration with SAP for the DI1 project
+
+
+7. November
+- Contact and check with SV for camera and recording
+- Making notes in the morning about project summary
+- Nicole bought house and pm's mum died
+- Worked on Payment form: Two options possible 1. using aanmelde.nl that is the same company as the payment processor; result medium; formating bad and user flow okay. 2. Manon pointed me to the fact that the Drupal form system also works. It does but with a trick. I need to redirect the user from the form manually after he/she filled out the fields (records are keept but no confirmation email is send) to the payment processor's page using the "button" function. This leads to user inconsistency and necessity to double check registered users. Users need to fill in all the info again to proceed to the form.
+- Build the drupal form; easy; create new content "Detail page" and save draft.
+- Start project: Google Indoor Maps + Beacon Integration: Budget plan etc.  
+
+
+8. November
+- Contact Sandra Daas / Spanija or so again to ask for BTW and payment costs 
+- Check with client if the form works / test?!
+- Ask Pascalle on how to make a form and connect it to tripolis to make an RSS>Mail channel for the ID P4 project > Is in the process; needs to ask Michiel
+- Ask Michiel to get access to tool server and about the process with the RFC
+- Check with legal department: Reminder email to Joan > Is working on it
+- Update P1 Mockup and categorization
+- Make appointment with SAP experts on SSC and ICTS
+
+
+9. November
+- Contact the girl from Alumni office and make an appointment with her and Rick > Done
+- Make appointment with Peter and Marcel
+- Worked three hours in the morning and yestday evening on finishing up the DI P6 (Vr game); Meeting with Lissanee about the QR code tracker. It looks like the solution is not simple. Is it a good idea to let people develop the app and reuse the code for other purposes? How long would it take?
+- Send the guy from Sjoprz the links 
+- Make an appointment with Sueli > Done
+- Go to SBE and copy some files 
+- Meeting with Stijn from T36; Todo's: 1. Make a RFC list for Michil to implement in Drupal 2. Contact Filezilla or JW player to see if they offer a solution. He explained his situation and that he needed to recommend to his client not to use Brightcove anymore. They themselves have 180TB in house and use a system that does version managing of project files and source files themselves. In our case we only need to manage final master files and the corresponding meta information. He made 2 important points 1. For a websites pagerank or findability does not matter if its a yt or bc video that is embedded in the website. (three years ago it was different maybe). 2. Youtube beats BC in terms of interactivity (three years ago this was not the case). With BBW he has no feelings and would not recommend it. They are more a full service buro and do not focus on videos at all. Also to note: 2 of the three problems we initially started out with are by now solved. 
+
+
+10. November
+- Scraping the website using python and store it locally
+- Using a webapp as UI for the same info
+- Deadline: 14 Dec.
+> Done above... using httrack to create an offline version of the entire UM website
+- Meeting with Rendy; Has two good ideas: 1. Live Open Day Event on Youtube: idea is to have a 9 hours live stream one day before the open day on youtube. In this 9 hours he interviews staff and students and gives insights into the Open Day and what students are interested in. Its a run off to the real open day that follows after. 2. Idea is to go around the world with a 360 Degree camera.
+
+11. November
+- Video 
+
+12, 13 November
+
+14. November
+- working from 8 - 18:00
+- Morning feedback from Christian on video.
+- Meeting with Eric Sol. Former ICTS director, cheated, got thrown out and is now interim Information Manager at FHML. Wired meeting.
+- Pascale Vennings and her digital Baseroom needed aftercare
+- Peggy from ZL does not have a solution yet
+- And frie and Aalt are happy
+- At the end of the day I worked on the prototype for the VR app.
+
+15. November
+- Morning meeting with Fleur and Tom. Tom says I am a Bobo. Means something like Fat Cat. Talked about the website and how they can use Alumni to show prosepective students their future. What do you think? testimonials. 
+- Before that I answered emails; Sending Kristaps request to look into the P1.
+- After that I answered more emails and started with transfering the offline version of the website to devices. For Laptop no problem and for the ipad I decided to use Google Drive to share the files
+- At 14:00 meeting with Blue Billy Wig. Good presentation and the ability to have layers on videos with API's seems cool. But we miss use case.
+- At 15:45 meeting with Rick. Good overview. Digged into the choices for IDE/SDK for the P1.
+
+
+
+16. November
+- Answer Pendo user and invite her to do VR game testing > Done
+- Make appointment with Annabel and Manon > Done
+- Contact Peter for the SAP SLM integration > Done by Rick
+- Investigate the possibility to make a Chatbot for Norbert Hofer for Facebook Messanger and 
+
+https://www.quora.com/How-do-developers-create-chat-bots
+https://wit.ai/community
+https://developers.facebook.com/docs/messenger-platform/guides/quick-start
+https://messengerplatform.fb.com
+
+
+https://ionicframework.com
+
+- Morning I had a meeting with SBE's colleges esther and the bos. About the BDKT videos. Nothing new Michel mentioned that there is a UX inconvenience on the Department websites when switching between mobile view and general view. I will not work on the production on the videos. Afterwards we had a meeting with Alumni Pro the guys who keep 60.000 people in check and balance. Interesting side not is that segmentation yields to specialists as a thrill. More data only makes more data.
+- Between 11 - 13 there where emails and more little things to do but not much concrete. A meeting with the team lasted more than two hours in which we learned that we get phones (maybe) and also 30 euro per person to celebrate christmas. The open day went very well. Too much students. Julienne thinks of extending it to a weekend. Write proposal for Rendy's idea and put it to Julienne!! Also, For each phd 60.000 Euro from the government comes in.
+- Afterwards we had a meetup with the P2 team: 
+- More little thingies. 
+
+17. November
+
+- Started at 8:00 sharp; worked on beacons. Double registered.. one time the ibeacon and one time the eddystone ID in Dashboard. Prepared for first meeting with Annabel; she behaves like a child. Jumping around as if I am evil daddy not giving in to her demands. After that meetup with manon and SSF about participating in their SSF project for an online platform. Three meetings planned. Afterwards sitting with Tanja, Jeroen and Pascalle... Nice, I think a good project will be the result. 1. Google Indoor Maps (also mentioned by Monique today in relation to scope Blog or website frontpage)and in combination with Beacons; 2. Run up to the Open Day - Live on Youtube - Rendy's paradise extended; 3. Studyfinder App for Dutch students with inspiring fun factor. Afternoon meeting with Monique and Pascall and Miranda; Afterwards lecture recording and wrapping up.
+
+18. November
+- Start project description for 1,2,3 above
+- Make presentation and Unity3d P11 for next week
+- Contact Barbara from Roa and discuss studyfinder App with her + talk to Meredith > Done
+- Install Cordova and work on sample projects
+- Go with Rick over the Oauth specs and the UM API > Done next week.
+- Made appointment with Monique, prepared P1 content for Annabel. > Done
+- Look into the german VMS platform > Not something for us
+
+
+21. November
+- Write proposal for Live Open Day but leave blancs and send it to Rendy; 
+- Plan meeting with Luc and Rendy to discuss the live 
+- ##
+- Resend Invoice > Done
+- Ensure that Mediablender's proposals get rejected everywhere at UM
+- Search for the exact income generated for the UM by a BSc b MSc c Phd d PGD
+- Print Mailchimp's recipts > Done
+- Search for HDV adapter > Done
+- Send the AH shopinglist guy the email of adina or bring the two in contact > Done
+- Make appointment to come to Brightlands
+- Talked with Meredith about innovation projects and she reminded me that I should work on very practical solutions. She wants to distinguis UM from the other universities. This means differentiation with a focus on PBL.  
+
+
+22. November
+- Send mail to Femke with info on payment and featurelist of website > Done. Ask Att for 
+- Send Meredith link to Mixed Reality thing > Done
+- Make appointment with Career Adviser 
+- Order for Mum the thing (see flyer in Book)
+- Call for House / look for others > Done
+- Work out the Open Day Application > Process
+
+- Meetup with Finalist: Demo and request
+Took two days to implement the player + two days for testing: 32 Hours
+
+: Implementation of three breaking points (960grid: for tablet) Only needs to be adjusted in the CSS. 
+: Static cover images (Using the header<field> to add a image)? 
+: Randomizer (select out of three videos one for plaoyout) 
+
++++ Base URL (Amazon CDN) can be changed by sebastian 
+This is done by a file. 
+
+
+23. November
+- Rescedule meeting with Marc > Done
+- Send him keepass > Done
+- Meeting with Barbara: Roa gives most data to studiekizzer 123; Is interested in the idea; Wants googel analytics and has some reuqests 
+
+24. November
+- Feature List for Femke > MONDAY
+- Presentations for next tuesday! > Done
+- Answer the Witch from the Teambuilding. She asked a question > Done.
+
+> We got some Finalist meetup; no mentioning of DIQ. What happens when we go for the biggest bucks? 
+> Cliches everywhere... Christmas video wishes with Dean. Startup Digital Innovation
+
+28. November
+- Feature list for Femke > Done
+- Working out project for 1. ROA/Barbara 2. Beacon/Open Day App 3. Live Stream Run up to Open Day
+- Make appointment to come to Brightlands
+- Deploy beacons
+- FInish VIdeo
+
+29. November
+- Attache http://www.maastrichtsts.nl/
+- admin is user name
+- Remind the legal lady about the document > Done
+- Remind Annabel about my request > Done
+- Make a Fivver account and offer a Augmented Reality Christmas Card with your company logo or name for 5 Euro - IOS app etc.
+
+Meeting with Denis, Julia and Meredith: They like the projects but Denis is very carefully about the content. What do we want to communicate? He asks to 1. Contact DKE person to find money 2. Meet with Julienne and Meredith to see where in the process my techniques should be used. 3. 
+
+Meeting with Erick and Sueli about using AR for an open day. 
+
+
+30. November
+
+Title: Live Youtube Event: Run Up To Open Day
+
+The idea is to have a day before the Open Day a 9 hours live show on youtube. Similar to the Saturday Night Live format a moderator hosts the show inviting students, lectureres and staff people and have an informal chat about topics relevant for students. In addition prospective students can "tune in" and have their questions answered.
+
+Production: The production setup itself is completely independent of the Open Day organisation. It follows its own time scedule and is produced on behave of the Events team. Since it takes place a day before the Open Day there is also no direct interferance with the operation.
+
+Target audience: Prospective and interested students from foreign countries who cannot attend an Open Day physically.
+
+Goal: Is to give the target group the information they would otherwise get when they are on location in an entertaining and informing manner.
+
+Platform: Youtube and Googel hangout
+
+Setup: The setup consists of a host (Rendy Jansen) a production team (Science Vision) and production assistent (two students).
+
+
+Scedule and Programme
+
+Number | Start | End | Duration | Description | 
+
+
+1. December
+- Mediablender made the UNU Jargon Buster App for UNU Merit
+- 
+
+VIRALE VIDEOS:
+Medien sind staending auf der Suche nach Story
+Wir Wollen Eine Marke unter die Leute bringen
+
+Think Modo - Viral Video Marketing Agency
+3 Menschen
+Netz aus Micro Influencer
+
+
+Wir stellen videos in internet und machen Weltweit Stories
+==========================================================
+
+1. Kurz und ohne Ton funktionieren
+2. Titel soll verstaendlich und gut zu erinnern sein
+3. Was passiert muss leicht zusammengefasst werden koennen
+4. Was zu sehen ist muss echt sein oder zumindest Glaubhaft
+5. Es geht darum Szenen zu schaffen die sich echt anfuehlen
+
+
+Mann muss was extremes tun - um etwas virales gut
+
+1. Wir nehmen die Idee hinter einer Film oder Marke 
+2. Setzten diese Idee in the Altag, also ein ausergewohenliches Ereigniss
+3. Dann filmen wir wie die Menschen darauf reagieren
+
+
+
+- Meeting with Remy: Cannot remember me. Does not remember me. Is not really willing to help. And does not provide any usable documentation on how to get students data from SAP/SLM.
+
+- Rick is following up on it. I will meet with Julian tomorrow. He will be the coworker of Remy and will be in charge of ICT/Server maintainance. He is apparently also the one knowing about the Single Sign On at UM.
+
+- Project notes:  Events do not have a QR code generator right now, nor a scanner. 
+
+- Meeting with Mark: He got 8hours more to do web developing tasks; is asked to use drupal instead of wordpress. Is fine but likes the idea of an indoor map. 
+
+- Meeting with Rick: We need deadlines | Opportunity and 
+
+- Write a Business Proposal for Monique for Indoor Room Finder
+
+
+5. December
+- Working on the proposal for P12
+- Working on the Christmas card
+- Emails and other stuff
+- Installing IOS, Unity and other SDK
+- Continuing on proposals for P8,9,10
+
+
+6. December
+- Respond to YoungWorks > Done
+- ZL: Ask M for more info on progress 
+- Read Rendy's work and talk with Julienne 
+- Write a debrief plus offer to Monique 
+- Follow up on ResourceSpace
+- Build both the Android / IOS 
+
+
++ Order Book
++ 
+
+=====PGE MEETUP=====
+Content programme in terms of objectives:
+
+- Attention and branding: Leader in Service Innovation
+Making Servie Innovation approachable
+- What is service innovation
+- Translate research into practice
+- Customer wants to help you think about new ideas or help me implement?
+
+: Start from the customer need?
+: Inspire the customer?
+
+
+"Its video graphic... So its fun" > Unpassionate observation by Ron.
+"You cannot be serious if you only focuse on your own programme" - Ron
+"We need somebody who takes ownership of the platfrom" - In the age when ownership is off.
+
+- Comment: It's easier to get money for a project then an FTE; 10 weeks turn around; 
+
+: Aspiration
+We want to keep them engaged in both ways <>
+Keep them inspiring <>
+
+EVENTS:
+- They talked about an Events App
+
+
+XUM = New Name of the University for branding
+ConneXUM
+
+Servitization
+
+Achievement system: points for activity
+
+
+
+13. December
+
+Service Innovation
+
+- Service Concept
+- Client Interface
+- Delivery System 
+- Technologicla Option
+
+A basic one-stop-shop with loyalty points system 
+without any payment wall
+
+user stories are idealized; Who wants to spend their lunch break watching a video about their work
+
+On the casual event in the envening we scan QR codes to get somebody on the link List
+
+
+UonnexUM Breakfast:
+- Live Cook who tells you to make a choice; And a Gluecksrad to get the seat number by chance. 
+
+-> Nice idea; Cognitive disonance.
+App does not work because it is technically not nice. 
+
+Its like me talking about how to create a new MSc Programme in Acquarian Finance. I can make a big stunt but when handing my presentation to a professor who has already created four MSc in related fields nothing will come out.
+
+===
+Meeting with DKE
+- 1. May official start
+- They have a selection process
+- Budgeting: 15.000 Euro / year for MSc 
+
+Send links to presentations, and docs
+Send contact details to Creative Coding Maastricht
+Send idea about Augmented Reality Idea
+Send the link to the Hologram 
+
+15. December
+Manons last day;
+Breakfast in the morning, Working on todo items, downloaded 70GB of footage from GTEM. Likes the Hackathon idea and wants to expand it to students and staff.
+
+18. - 23. December: Last Week in December
+- Mainly worked on the UM Distractor Application and finished up small stuff
+- Final presentation of the SSF/PGD project; No news; feedback will be that everything they want until April is possible. > This is a project that needs to be discussed with Michiel. w
+
+9. January
+- Meeting with nobody
+- Organizing emails and worked on spacialOS in the afternoon
+- Send off the documents to have photoshop and Indesign on my comp
+- Went to the New Years Reception
+- Claudia van Oppen has new job
+- Made more lists
+
+10. January
+- Todo's for Rick: 1. Finalize distractor app 1.1 Add RSS parser to it 1.2 fix audio 1.3 fix splash screen on Android
+- Make functional requirement list for the BMOd App & project plan| Write basic idea for hackathon down and ask for the events team for feedback
+- Add the idea for a Innovation_Pitch Session to the Hackathon - maybe as second event type
+- Start writing a technical description for Active Directory | SAP CRM | CRIS | on developer.maastrichtuniversity.nl
+- Rick needs to contact Remy for more info on SAP CRM
+
+> Header Video Problem
+
+- Huge Traffic
+- Loading on Mobile still requests video
+- 
+
+
+13. January
+- Meeting with Fri: everything okay
+- BOD Meeting
+> ICTS: Edurom visitor access for secure and validated WIFI solution for the open day; SMS verification is necessary. Previously used open wifi; The solution was the SMS verification; Another idea was to only give free access to facebook; 
+>> Streaming: One streaming service is available; Mediasite; some faculties use it to record/stream the presentations (not externally) - Would it be an idea to use Rendys idea here?!
+Note: ICTS guy gets called for non ICT related manner.
+
+==== February 2017 ====
+
+
+
+
+
+==== Maerz 2017 ===
+
+
+
+==== APRIL 2017 ===
+10. April
+I contacted Nicole and asked for a meeting. I wanted to show the mockup I created and discuss the two documents I send. My main question was about "How much hours can I expect the editorial team to work on this project?" because this helps me with making the planning and budget. I was really dissapointed because she could not give me an answer to the question. She agrees that form and content should make a meaningful whole but how exactly the content fits in was not clear to her. My reaction of dissapointment was later by Manon observed as anger. The point being that I accused Nicole of not reading my documents and Nicole was obviously oblivious about the content strategy.
+
+What content strategy do you suggest for this project?
+
+Do you have any successful examples?
+
+Is there a house style document that explicates what form the content has to adhere to?
+
+How should the content strategy (a content style - prose, journal, epic - its allegories or temperations, its tone of voice, pronouncements, etc.) effect the reader? 
+
+Where do you find the resources necessary? Internal - External? Who?
+
+How to solve this apparent dillema is unclear at this moment. Let's assume we want to come accross professional and work diligently. We need to go to an external party and ask how much X is? On that basis we can build up a budget. The project plan is likewise build in reverse causal order. We will say we need two weeks to test then we have the deployment date. We need to produce X amount of content by that moment so we need to calculate backwards from the moment we want it to be online to get an inidcation on where/when we start. 
+
+But we do it the other way around. First I was asked for a budget proposal. I saw Juliennes presentation and handouts. It did not include the very first idea - only the budget (~30.000 Euro) was put to motion. Because we are so different from all other universities we started looking at their Virtual Open Day's and expect a copy or representative example for UM. This is an uncritical observation that I can substantiate with emails. 
+
+But this does not stop there. Also on the content level one is forced to put into question everything we teach in the course "Managing Complex Projects". The initial, uncritical request recreates or reuse the exact same content types we already created for the Campus Tour, the website and for the LAW faculty (Programme informaiton, videos, interactive map). From the vantage point of us, nothing differentiates this marketing/recruitment tool structurally and content wise from what other universities do and we already did too. If I ask about performance indicators nobody knows much. The campus tours impact on student recruitment is more then questionable. The corporate website is in essence everything you need to know about programmes besides the human drama and its real life narrative which needs to be felt, not read. And then there are over thousand videos featuring alumni, students, projects, more projects, ... Not the absence of content triggers one interest but its superabundance. It's like poverty in the midst of wealthy or Mr. Krijnens fear  dissillusionment that few UM employees live in Limmel, Wittevorwenfeld or elsewhere where Gerd Wilders has gained popularity.
+
+What does this tell us? What can be a logical explenation for this observations? That's maybe a perfect test for deductive reasoning. And since the March for Science was also done more for the party of friends then to convert dissbelievers it's a good start. What is the general law that we can find by looking at all these instances? I think that the truth is that we are our own clients. We have no other clients then ourselves. We do all these things to keep us busy to keep us busy. There is no need for a virtual open day as much as there is no need for another UM website. So why do we insist to do so? Is it because we are not creative enough to come up with something so novel and so suitable for the purpose? Is it because we lack a training in perception and the arts? Is it because we really work for ourselves first and for the company second? Wait. The last one does contradict the premise. 
+
+But lets come back to the feeling of dissapointment. My dissapointment is the result of simple missunderstanding. I feel not taking seriously when I produce almost a guide book like structure that I guess for a collegue who deals with the subject matter intimedly. This feeling is not justified of course - it is my dissability to communicate proper - but I still feel that I need to make a point. Maybe it is a good idea to add a sentence in the document = this document is worhtless and a joke. Tell bernd that he is dulls at your next meeting with him. = and ask if they found it. 
+
+I guess everybody looked at the budget. Do you have any comments on it? Do you think some posts are to high others too low?
+
+Is the budget now approved or not? And what does approval mean here?
+
+Is it true that the only way to get recognision here is have enough zeros in the budget?
+
+How correct is the budget? Can I test it? On some specific part?!
+
+
+First proposal: 45.000 Euro (Julienne requested and presented in March)
+Second proposal: 60.000 Euro (Presented on 13. April because it was too low)
+Third proposal: 170.000 Euro (Latest proposal discussed with Meredith)
+
+
+
+26th of April: There is no consensus on the budget. There is apparently no consensus upon what we communicate neither in what style we choose to do so. 
+
+- Meeting with Dimitri and Tijttes Alexander as well as tim to learn about the Student portal. Interesting meeting
+
+25th of April: I have a meeting with Nicole where we are not sure what content - in detail - is to be produced and what its relevance is for this project.  
+
+- Meeting with Oudenijeweme Peter and Manon Habets Lisanne and Rick about the BMOD app. This meeting was a failure on every step. We had the wrong questions for the wrong people. Rick was well prepared.
+
+24th of April: P2P learning event where Michiel speaks about the project management of the Web project, its cycles etc.
+
+21th of April: Discussion with Meredith about latest budget and content strategy
+
+19th of April: I meet with Meredith and four students of the UCM where I presented the concept, asked questions, did a brief brainstorm free style session and made of all notes.
+
+19th of April: I did the same with Ellen Krijnen in person. I showed her the mockup, explained to her the rough idea and noted down her experiences.
+
+18th of April: I meet with students from the country team (three in total) whom I explained this time the project problem, showcased the solution and asked their feedback. I noted everything down and even made audio recordings of the talks.
+
+13th of April: I meet with Denis, Meredith and Manon and I showcased the mockup, discussed the budget and we decided that a. the concept needs fine tuneing and b. the budget needs to be doubled
+
+13th of April: Another meeting with Zoe and Anneloes to discuss matters again. Result was a email send by Anneloes with themes and suggestions. 
+
+12th of April: I meet with Loek from Science Vision to talk about his opinion about the budget and possible setups for the video content.
+
+11th of April: We had another brainstorm meeting with Pascal, Zoe, Anneloes and Britta.
+
+- Meeting with Annabel after I asked if I can make have the footage from the Campus Tour. First she tried to explain to me the difference between a licensing rights and authors rights, when I insisted that I want to see the contract then she negated the point she tried to bring across that I need the authors approval to use the footage. Then she asked what I want to do with it and I apologised that I do not mention it in the email.
+
+
+6th of April: We had a brainstorm after the Editors meeting with Dunja, Femke, Jean-Pierre, Britta, Nicole and Annabel. 
+
+6th of April: I gave a presentation of in the Editor's meeting and they came up with the idea to sit together and brain storm about possible solutions to the initial problem outlined in my presentation.
+
+==== May 2017 ====
+
+1. May: Meeting with Caroline
+Ich dachte immer das eine Präsentation das Ziel hat dem Publikum information zu bringen anstatt dem Leiter eine Platform zu bieten seine (in diesem Fall ihre) Gedanken besser zu ordnen. 
+
+2. May: Meeting with Brams
+Machinegun mouth and very pleasant ideas. Needs access to equipment without expenses, advice on ICT and media services as well as a network. Is very hyped about the edu tech scene. Wife also works in this area - last job campaign manager for HC.
+
+3. May: DI Meetup
+Not much news, all in Notebook
+
+4. May: Meeting for Virtual Day Project with Zoe
+Good meeting. Offered to have students write experience reports about the themes I propose and answer me the questions.
+Further more working on details and presentations
+
+
+
+ 
+
+
+
+
