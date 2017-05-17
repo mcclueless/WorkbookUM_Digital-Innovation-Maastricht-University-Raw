@@ -1003,16 +1003,91 @@ Lenssen Carla (TA) <carla.lenssen@maastrichtuniversity.nl>
 
 The feedback was good but not conclusive. The first question revolved around how the magic happens. How does the system select the programme and calculate the "match". There is great potential for confusion. Overall there was little feedback and I tried to give everybody the feeling that its not set in stone but their idea. They can mold it add to it and give it more flesh. The question was how this relates to the MSc or if it is included.
 
+9 May
+
 - Contact Mariette and send her:
 -- link to project proposal
 -- questionaire 
+-- Call for better ideas
+-- Requests: the golden lectureres, floor maps, photograph
 
+>> DONE
+
+- Send email to Kirsten Engbersen
 
 Todo: Contacting SSC, BIB, FHML
-Ask for interns/sa
+Ask for interns/student assistent or put a call into the newsletter
+-- Contact Tanja Peters: She has list of promoteamers of which some might be DKE students
+
+-- Idea: Ask students (promoteamers or Zoes crowd) to compile all material for a BSc programme.
+-- Realize the project in Phases
 
  
+10 May
+- Meeting with Wilco, Manon and Peter together with Rick, brought very nice pastries, meeting was successful and not very active
+- Nothing is happening except some emails and meeting from 1 - 3 with Manon and Rick. The Hornist nest is definatley up for sale. She gets very emotional (for her standards) when confronted with the idea to give all the course information available for free. 
+- Now I visit a house and work longer because at 17:30 somebody is calling me from Qaltrix
+
+Maybe I should build on the local machine a WP setup with a basic version that could go live by June. Also a crowd sourcing campaign that allows to get a better grip on the actual content. This can serve as a basis. Additionally Zoes students need a task list. And I should send the first questionair with a very positiv email to all parties involved in the doomsday meeting asking them to provide more then just an idea.
 
 
+11. May
+- Contacted the student project team again and ensure that we can meet up and run the show.
+
+
+You have approved an SSL/TLS certificate for the domain name www.umdinoapp.me
+
+12. May
+- Meeting with Student Project Team. This was very interesting and also helpful
+- Jeroen came to congratulate me to my parenthood adventure; I should contact Linda - a student assistent - that does research in what students want to know.
+- Worked on SSL certificate and mapping the domain. Need to print out invoices and ensure that I get the declaration form in.
+- 
+
+13. May
+- More organisational parts
+
+15. May
+Some remarks about the email conversation with Nicole. Nicole believes that everything needs to be discussed at faculty level. Any integrated approach to the matter is utterly depreciated. 
+
+What are the facts. Nicole assumed, like Meredith, that the two meetings have the same purpose. The first was organised by myself after the meeting on 12. April with Meredith, Manon and Denis to which Nicole was also invited. The second one was initiated by Nicole after our first meeting where I presented the project plan and everything else. With the unsatisfactory result that she asked Patricia to schedule a meeting. This happens four weeks later. What do you do in four weeks time? I mean - with the internet and all of it. I wrote everything down and structued it as best as I can. Then I shared it with everybody to give me comments or feedback. After no comments nor feedback came back I formulated precise questions and distributed it again.
+
+16. May
+- Huging Nicole - its all not so bad. Bimmel, Arsch, Bussy T-Shirt link bekommen. Vielleicht eine Art Mitleid entgegenzuwirken
+- Meeting mit N, A, P. Alle anderen abgesagt. Cheat Sheet gemacht fuer alle und ein email recap nachgesendet. 
+- Das Problem war das niemand Gluecklich war mit meinen Punkten:
+  - Explainer Video: Punkt war das ich mit den Fakultaeten sprechen soll und die a. den text schreiben und b. den presentator stellen. Mein standpunkt ist das a. nicole oder einer der editoren auf basis ther verfuegbaren information einen 3000 worte umfassenden text verfassen der das script ist b. das wir entweder schauspieler nehmen die in einem Studio den text vortragen und die Produktionsfirma das ausfertigt.
+  - Nicoles punkt ist das wir das selbe problem haben wie mit Nicole. 
+  - Ich sende ein email mit folgenden Recap noten: 
+
+- Annabel starts working on the production and coordination of the explainer videos
+- Annabel finds 18 lecturers/programme experts that will present and also write the script according to the general outlines presented
+- Annabel requests a quote from external suppliers for the production of 18 explainer videos -> once we agree with the supplier she will plan together with the production company the videos. 
+- Am selben tag werde ich zu einem Meeting eingeladen - Joris Submedia VOD short brainstorm - Hi Joris, Bernd, Michel heeft helaas geen tijd om erbij te zijn.
+
+Groet
+Annabel
+- Michel's anmerking war das Annabel nicht sehr interessiert daran war und sagte "Bernd's Projekt". Er gab sich distanziert vorllem dadurch das er Annabel kennt. Er gab mir auch den tip einfach ein Team in the Fakultaeten zusammen zustellen um diese Dinge zu Besprechen. Ein wirklich guter tip!
+
+
+- Nun steht sie in meinem Buero: 11:00
+
+Im Grunde geht es jetzt darum ob meine idee oder ihre durchgeht.
+
+1. Ob sie Zugang kriegen kann zu den lectures war ihre erste Frage.
+2. Die Zweite Frage oder besser Erklärung war ob wir eine Liste mit programm direktoren haben. 
+3. Ob ich weis ob sie Zeit haben oder die Programm direktoren mitarbeiten wollen.
+
+An disem Punkt habe ich mir gedacht. Wie hab ich diese Fragen beantwortet? Erfahrung oder Recherge. Wie geht man daran. Man kann sie alle einfach fragen selbstverstaendlich und hoffen das jemand sagt ja ich sag mir wann ich wo sein soll und was ich vorbereiten soll und dann mach ich das gerne!
+
+Es scheint schwierig zu sein 
+
+- Nun hatten wir ein Meeting : 12:30
+
+Mit Josh. Sublime Media oder so. 
+- Zuerst hat sie gesagt das die orignale idea die war die sie selbst bedacht hat. Und zwar so wie meine Erfahrung mir gelernt hat das es nichts bringt.
+- Was kann man ihr fuer einen Rat geben? Time Management Kurs, Time Management Kurs, Entspannungs uebungen, ganz viel Urlaub, 
+- Seine anmerkungen: Jung ja und eher native speakers
+- Ihr Argument: Fuer Niederlaender sprechen die Native speaker zu schnell
+- Seine anmerkungen: entweder variante A oder B. Nicht gemischt aufnehmen. (Also Akteure und echte Professoren/Lecturer/Programme directors)
 
 
