@@ -957,6 +957,9 @@ Third proposal: 170.000 Euro (Latest proposal discussed with Meredith)
 
 - Meeting with Annabel after I asked if I can make have the footage from the Campus Tour. First she tried to explain to me the difference between a licensing rights and authors rights, when I insisted that I want to see the contract then she negated the point she tried to bring across that I need the authors approval to use the footage. Then she asked what I want to do with it and I apologised that I do not mention it in the email.
 
+13. April: Presentation of concept / plan / budget > Budget not conform / Meeting 23. May
+
+10. April: Meeting with Nicole -> Result: Todays meeting
 
 6th of April: We had a brainstorm after the Editors meeting with Dunja, Femke, Jean-Pierre, Britta, Nicole and Annabel. 
 
@@ -1068,7 +1071,7 @@ Groet
 Annabel
 - Michel's anmerking war das Annabel nicht sehr interessiert daran war und sagte "Bernd's Projekt". Er gab sich distanziert vorllem dadurch das er Annabel kennt. Er gab mir auch den tip einfach ein Team in the Fakultaeten zusammen zustellen um diese Dinge zu Besprechen. Ein wirklich guter tip!
 
-
+17. May
 - Nun steht sie in meinem Buero: 11:00
 
 Im Grunde geht es jetzt darum ob meine idee oder ihre durchgeht.
@@ -1089,5 +1092,39 @@ Mit Josh. Sublime Media oder so.
 - Seine anmerkungen: Jung ja und eher native speakers
 - Ihr Argument: Fuer Niederlaender sprechen die Native speaker zu schnell
 - Seine anmerkungen: entweder variante A oder B. Nicht gemischt aufnehmen. (Also Akteure und echte Professoren/Lecturer/Programme directors)
+- Er will nicht so viel gemixel und gemaxel haben wie im Beispiel - Zugestimmt.
+
+
+========
+- Send recap to Annabel and Joris
+- Bring Pascal and Rob together
+
+18. May
+Die Presentation bei FHML war ein erfolg. 1 1/2 stunden und jeder war sehr interessiert daran und zuversichtlich das es ein Erfolg wird. Vorallem aber das Feedback war sehr gut. Hier nochmal zusammengefasst:
+
+- Application should tell the user how much time it takes to finish a station
+- Invite a friend button should be in
+- A user can see who else is currently online or doing this journey
+- Share button at the end so that a user can send their report to their facebook, twitter, instagram peers
+- Make use of the Facebook checkin functionality
+- The user c- Change The Journey to My Open Day (which is a nice suggestion)
+
+= In the decision tree 2 the user can select out of a set of interests. This would increase serendipity. 
+
+What do I want from FHML:
+- Names of inspiring tutors/professors that we can feature as content or want to integrate their teaching/evaluating activities into the VOD
+- Bachelor Presentations as PDF/Powerpoint and a link to recordings if they do exist
+- Matrix of interests on x axis and programmes on y axis
+
+
+22. May
+Great Meeting with Nicole and Co. 
+Feedback from Jean-Pierre: It is not a lack of trust but a unvalued expertise 
+What he explains is that he learnd that content became first and everything else is tailored around it. Form follows content. He meant that by giving people the space to be understood - by simply asking 
+
+23. May
+- Britta is becoming aunt. So she is not here
+- First meeting with IDEE guys who build medical devices 
+- Meeting with Meredith 
 
 
