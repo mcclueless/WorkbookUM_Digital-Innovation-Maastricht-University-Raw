@@ -1343,7 +1343,42 @@ Content-Length: 907
 --batch_openday—
 ===================
 
-
 What is really interesting here is that no reaction is given yet. But the problem is simple. Acorel build a function that we want to use and that should also be documented. If documentation is there then we could do it ourselfs. Now Wilko is being paid one hour for finding out a feature that he build and failed to document. Given the fact that there is a technical beheer (Marcel) and functionel beheer (Manon and Peter) that together own the system could not advice us proper and actually had no clue that this feature is already there we believe nothing anymore what they say. 
 
-The idea of fairness between exchanging
+13. Juni
+- CORE MEETING: no budget yet, no update on content types yet, nothing except that Britta and Zoe does again what Zoe and I discussed also together with Annabel the past month.
+
+Britta provided me with my 20JYCSWGF project: "I DON'T WRITE FOR VIDEO" Contrast this with http://orf.at/stories/2395325/
+
+- GUIDANCE GROUP MEETING:
+Very interesting indeed. No comments about service concept, service design, agreed content types etc. Nor discussion about qualitative alternatives.
+Accusation: I am not used to work in big teams and have problems letting go.
+Counter: People are not used to get told and have no ideas, time nor cross disciplinary skills to get them done. 
+Observation: Nicole does not write recaps of meetings. Seems like the whole univeristy is a time fixed club. Oral transmission of information is preminent together with mixed-media-email slug chain. 
+1. Disagreement: What is the asthetic value of showing a showmaster in a classroom? We have the Campus tour where we show the buildings from the outside. We invest 12.000 Euro in 360 degree images to create a virtual tour and we have a website full of videos and description of the facilities. So what is now the argument for this production setup and how does it help to communicate the key messages or core values.
+
+"In the age of the classroom without walls the nostalgia for the brick and mortar business in its marketing efforts remains unchallenged"
+
+The meeting afterwards the decision was made without knowing the costs to go ahead with Annabels proposal. The lines of thought that we should 1. Prepare a proposal and send it to different prefered suppliers and companies 2. We compare the offers and choose the best 3. Start producing is not accepted in this case. Lesson: I should have choosen the 45.000 Euro developer to build the thing!
+
+2. Disagreement: Britta wrote a document on the basis of what I wrote which is a bad copy and not nearly as detailed as hers. The point is that she repeated the process that I went through last month. 
+
+Specialists have vested interest in their aquired knowlege. Fencing is a concrete strategy for ensuring jurisdiction. Editors see content as their dominion and defend it by crying and in some case by refusing to work on the project. 
+
+There is no disagreement with the document because it is exactly what I outlined before. And the fact is that it is not nearly half as ready today is it will be tomorrow. When I told that Nicole came with the following anectodes:
+
+1. Annabel almost wants to quit because I sceduled an appointment with Rianne to shoot a video on 4. July. And she is worried that it does not fit in with the rest of the videos she produces
+
+2. Britta cried this morning because she does not get through to me after I wrote a 4 page response to a her six page proposal. 
+
+3. Britta estimated her workload to take 25 hours in total!!!!! 
+
+4. Denis had the feeling that we all did not agree yet what to do next. He wants that we do things together. Well, not exactly. Only those things the respective expert is best suited to do. The interface between expters is meetings (oral) or email (audile/tactile.).
+
+Bottom line:
+
+1. Developement environment is set; Developer hired; 
+2. Content plan is in progress; budget is coming; deadline is shifted because of that!
+3. No budget number is yet there nor is the budget approved yet.
+
+
