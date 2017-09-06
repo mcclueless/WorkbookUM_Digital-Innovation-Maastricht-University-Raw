@@ -1261,16 +1261,7 @@ The third example was an anectode I already forgot. The third one was about the 
 - Meeting with Florian: Good offer, right questions and a good idea. Basic is that a user can save the journey and share it with others. For this a journey is a custom post type. Offer looks okay. 
 
 2. Juni
-> BMOD APP: Rick figured out how to solve one of the four requests by himself. This request:
-Beste Marcel en Wilco,
-
-Ik ben zelf nog eens op onderzoek uit gegaan en heb inmiddels uitgezocht (debug event app) hoe het aanpassen van de ’Set Show’ en ’Set No Show’ functioneert.
-De test resultaten zijn zoals gewenst, uitgevoerd via de gateway en tevens ook visueel via de ‘event app’. 
-Dit punt indien akkoord hoef niet meer worden opgenomen in RFC. Ter verificatie voor Wilco en Marcel onderstaande uitwerking:
-
-Uitwerking:
-
-RFC 2.3.1.Punt 1. Uitleg over het opvoeren van een show/no show. Door middel van het scannen van een beacon een show kunnen wegschrijven op betreffende lead en betreffende sessie. 
+> BMOD APP: Rick figured out how to solve one of the four requests by himself. 
 
 Data:
 1. Lead: Rick Sollet (GUID: 005056B11FBD1EE78989C080DE345D2F)
@@ -1278,70 +1269,6 @@ Data:
 2. Type request: POST (Batch)
 3. Value change: Status (Y / <empty> )
 
-Sample HTTP(S) Request:
-POST /sap/opu/odata/sap/Z_SR_EVENTS02_SRV_01/$batch HTTP/1.1
-Host: gw-test.myum.unimaas.nl
-Accept: application/json
-Content-Type: multipart/mixed; boundary=batch_openday
-DataServiceVersion: 2.0
-MaxDataServiceVersion: 2.0
-X-Requested-With: X
-Cache-Control: no-cache
-Postman-Token: 053cb180-dd74-e2e3-1a65-eb549ed6618a
-
---batch_openday
-Content-Type: multipart/mixed; boundary=changeset_openday
-
---changeset_openday
-Content-Type: application/http
-Content-Transfer-Encoding: binary
-
-PUT RegistrationSet(Guid='005056B11FBD1EE78989C080DE345D2F',SessionId='0000001794',CampaignId='') HTTP/1.1
-X-Requested-With: X
-Accept-Language: en-US
-Accept: application/json
-MaxDataServiceVersion: 2.0
-DataServiceVersion: 2.0
-Content-Type: application/json
-Content-Length: 907
-
-{"__metadata":{"id":"https://gw-test.myum.unimaas.nl:443/sap/opu/odata/sap/Z_SR_EVENTS02_SRV_01/RegistrationSet(SessionId='0000001794',CampaignId='',Guid='005056B11FBD1EE78989C080DE345D2F')","uri":"https://gw-test.myum.unimaas.nl:443/sap/opu/odata/sap/Z_SR_EVENTS02_SRV_01/RegistrationSet(SessionId='0000001794',CampaignId='',Guid='005056B11FBD1EE78989C080DE345D2F')","type":"Z_SR_EVENTS02_SRV_01.Registration"},"LastName":"Sollet","FirstName":"Rick","SessionId":"0000001794","CampaignId":"","Email":"rick.sollet@maastrichtuniversity.nl","Id":"0101856920","Name":"Rick Sollet","Status”:”Y","PartnerId":"1000261378","Guid":"005056B11FBD1EE78989C080DE345D2F","Prefix":"","RegistrationSessions":{"__deferred":{"uri":"https://gw-test.myum.unimaas.nl:443/sap/opu/odata/sap/Z_SR_EVENTS02_SRV_01/RegistrationSet(SessionId='0000001794',CampaignId='',Guid='005056B11FBD1EE78989C080DE345D2F')/RegistrationSessions"}}}
---changeset_openday--
-
---batch_openday--
-==================
-Hallo Marcel en Wilco,
-
-Als aanvulling op mijn vorige e-mail:
-Onderstaand een bijgewerkte versie van het batch request voor show/no show.
-
-Wijziging:
-
-1. Alleen het status veld wordt bijgewerkt, overige velden worden niet meer meegenomen. Hierdoor hoeven niet al deze waardes gevalideerd en correct te zijn. 
-
-Request:
-
---batch_openday
-Content-Type: multipart/mixed; boundary=changeset_openday
-
---changeset_openday
-Content-Type: application/http
-Content-Transfer-Encoding: binary
-
-PUT RegistrationSet(Guid='005056B11FBD1EE78989C080DE345D2F',SessionId='0000001791',CampaignId='') HTTP/1.1
-X-Requested-With: X
-Accept-Language: en-US
-Accept: application/json
-MaxDataServiceVersion: 2.0
-DataServiceVersion: 2.0
-Content-Type: application/json
-Content-Length: 907
-
-{"__metadata":{"id":"https://gw-test.myum.unimaas.nl:443/sap/opu/odata/sap/Z_SR_EVENTS02_SRV_01/RegistrationSet(SessionId='0000001791',CampaignId='',Guid='005056B11FBD1EE78989C080DE345D2F')","uri":"https://gw-test.myum.unimaas.nl:443/sap/opu/odata/sap/Z_SR_EVENTS02_SRV_01/RegistrationSet(SessionId='0000001791',CampaignId='',Guid='005056B11FBD1EE78989C080DE345D2F')","type":"Z_SR_EVENTS02_SRV_01.Registration"},"Status":"Y","RegistrationSessions":{"__deferred":{"uri":"https://gw-test.myum.unimaas.nl:443/sap/opu/odata/sap/Z_SR_EVENTS02_SRV_01/RegistrationSet(SessionId='0000001791',CampaignId='',Guid='005056B11FBD1EE78989C080DE345D2F')/RegistrationSessions"}}}
---changeset_openday--
-
---batch_openday—
-===================
 
 What is really interesting here is that no reaction is given yet. But the problem is simple. Acorel build a function that we want to use and that should also be documented. If documentation is there then we could do it ourselfs. Now Wilko is being paid one hour for finding out a feature that he build and failed to document. Given the fact that there is a technical beheer (Marcel) and functionel beheer (Manon and Peter) that together own the system could not advice us proper and actually had no clue that this feature is already there we believe nothing anymore what they say. 
 
@@ -1380,5 +1307,134 @@ Bottom line:
 1. Developement environment is set; Developer hired; 
 2. Content plan is in progress; budget is coming; deadline is shifted because of that!
 3. No budget number is yet there nor is the budget approved yet.
+
+
+Recap:
+Development and setup of the web app: On track
+Developer is working since last week; estimate 160 hours of work for 45 Euro/hour; stays easily with in proposed budget + overhead
+Content development: Not on track
+Britta says all textual content except what is written by students and the scripts for the videos will cost her 25 hours of work or two weeks: no external costs 
+Production of 15 video clips by 1. August is not clear and no budget proposal is yet there.
+Marketing and care: Pending
+Interviews with selection of SA’s in progress. Waiting for Budget number
+
+
+16 June:
+
+We measure with two different spots: when ICTS does not answer to an email in time. If the Editorial team does not do this its okay. Overall Denis is caught in the role of a dad that tries to be friends with everybody. There is a term for this which is called "perfide triangle" It basically means that when the child goes to mom and she says no the child will go to dad. Dad will say yes to be well off - in the eyes of the child - so that the child will be the benefactor of the emotional needs of dad to be loved.
+
+
+
+
+30. June:
+
+- Meeting with Peter did not go through, he is sick and the test was done by Rick and the Lisanne the day before
+- Sitting with Florian together:
+-- We worked on the details of the sign up / sign in process
+-- Welcome station and Station X are in all Journeys
+-- International students do not see the Dutch programmes, Dutch students see everything
+-- There are no separate stations for Ducht and English programmes
+
+-- Sign up process has not changed significantly
+FLOW 1
+-- User can select tree programmes (fields are mandatory)
+-- User can select unlimited amount of interstes (will be added to the journey if it exeeds total number of 7 stations; Station 7 is always "Station X" and all additional Experience stations will be added afterwards)
+FLOW 2
+-- User can select out of a set of "tags" or interests (min. of 7)
+-- User selects how he wants to be seen (mandatory, only one possible)
+
+-- Preferences: Total of 5 preference sliders (are not mandatory and default in middle)
+
+Logic:
+-- Weights for Programme station of FLOW 2: Interests = 2/3 and Preferences 1/3
+-- Weights for Experiences stations of FLOW 2: Character = 1/3 and Preferences 2/3
+
+
+SECRET STATION:
+A "hidden" Station can be set from the backend to appear in every Journey after the user has finished the first four stations (the first four means NOT the first four but in total four stations).
+
+
+To do:
+- Provide "interests" categories
+- Provide overview of programmes (18 programmes; 3 only in dutch and for 3 dutch and english versions)
+
+
+++Meeting with SPT++
+- Need a test panel in August for a sort of usability testing
+- Want Respect, Want to feel Special, Share the vision with our Education, 
+- Comment: Making it explicit that "the Journey" has nothing to do with your admission process (Privacy, dataprotection, etc.)
+- Huge need for the City as Comfort Zonel; Want the feeling of being in a nostalgic, solid, retro living room atmoshpere.
+
+
++ Found integration of WP with Discuous 
+
+https://github.com/discourse/wp-discourse
+
+
+4. Juli
+- Meeting Core
+-- Everythings good, Ned need to work more
+- Meeting Michel Saive
+-- Wants to meet with all interested parties in the faculties to talk about innovation; wants me to plan lunch or so every month 
+-- Talks about the fact that he needs a better way to bring the news to his people
+-- Talk to Mark, he will develop a mobile app; TOC as discussed in email!
+- Most of the time spend on making an Alexa Flash Briefing skill. Does work like the day before but does not show up on the Flash Briefing list. Did not do anything else; some say UK / US account difference might cause the problem. Checked! Not the case; 
+
+
+
+11. July
+FEEDBACK DEV:
+
+- I see custom post types Experience stations and Programme stations. Only at experience stations I can add the sections (which I would like you to rename into chapters) like I did here: http://virtualopendaytest.eu-central-1.elasticbeanstalk.com/stations/sports/ On the programme stations the sections do not show proper. Please check. I remember we talked about this a while back and the confusion was with the “Catalogue” menu item.
+- Sign up with Email button links to local dev environment  and continue without an account does not work (http://virtualopendaytest.eu-central-1.elasticbeanstalk.com/register/e-mail/) proper. Sign up process needs to work. Please check.
+- Please check user registration also does not seem to work.
+- Sign up process bottom content needs to be in place and working. 
+- make sure that plugins are up to date (the essential ones)
+https://www.ocf.berkeley.edu/~johnlab/pdfs/BFI-Swedish.doc
+
+https://www.ocf.berkeley.edu/~johnlab/pdfs/BFI-Hebrew.pdf
+
+
+
+
+-=-=-=-
+
+
+5. September
+
+
+To do:
+- Brief Marc as to how continue
+-- he should start working on making the whole VOD mobile friendly
+--- Making the whole sign up process look proper
+-- Style button on Frontpage to look more petit
+-- Add Login button at upper right corner that opens login in modal views. Style the modal view accordingly
+-- Add the 
+
+
+- Brief Florian
+-- Add Welcome message modal as in the mockup (content is in the sprint of 4.sept)
+-- Make video on frontpage loop and turn audio on. 
+-- Make SSL work
+-- Remove "Station Completed" (Make button nicer)
+- Please make sure that visitors of the Station X can access the results page 
+
+
+
+To do me:
+- Add the content to the form (email/preferencs)
+- Change "Login without account" URL (currently links to test environment as a result and does not create a route)
+- Get the public SSL certificate /DONE:Send EMAIL/
+- Setup Cloudfront for S3 Storage
+- Check with Britta about Content 
+- Send Nicolle an article
+- Edit the audio files
+- Write an article about the VOD on the Intranet
+
+
+
+- Answer Luc and Silverstrand as well as Kyrill
+
+
 
 
