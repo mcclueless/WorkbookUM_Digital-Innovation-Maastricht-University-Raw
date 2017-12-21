@@ -1268,7 +1268,7 @@ Data:
 2. Session:  System Biology (Session Id: 0000001794)
 2. Type request: POST (Batch)
 3. Value change: Status (Y / <empty> )
-
+UNekLu[vh]D3_uA)[:cf
 
 What is really interesting here is that no reaction is given yet. But the problem is simple. Acorel build a function that we want to use and that should also be documented. If documentation is there then we could do it ourselfs. Now Wilko is being paid one hour for finding out a feature that he build and failed to document. Given the fact that there is a technical beheer (Marcel) and functionel beheer (Manon and Peter) that together own the system could not advice us proper and actually had no clue that this feature is already there we believe nothing anymore what they say. 
 
@@ -1431,10 +1431,168 @@ To do me:
 - Edit the audio files
 - Write an article about the VOD on the Intranet
 
+- Answer Luc and Silverstrand as well as Kyrill > DONE
 
 
-- Answer Luc and Silverstrand as well as Kyrill
+michel​.​dumontier​@​​maastricht​university​.​nl
 
+
+6. September
+
+Lots of emails and talks; fuck
+
+7. September
+More talks, little work done, fucks.
+
+Hi InterUM,
+
+Alexandra Fixe is taking over the tasks of Patricia Hofman so I put her in CC. I want to announce a new promo teamer that will work for me.
+Here is his information:
+
+
+ - Nationality: Belgian
+ - Date of Birth: June 4th 1997
+ - Email: manu.hobert@gmail.com / m.hobert@student.maastrichtuniversity.nl
+
+
+
+
++++++
+- When registering without an account I cannot add stations from the catalog to my route
+- Please add a scrol bar to the "Stations" and "My Route" modal view
+
+
+
+
+14. September
+
+
+Having 
+
+
+29. September
+- https://d21enw5qmahbo0.cloudfront.net/maastrichtuniversity/media/2017/08/28/asset-2842627-1503921759613447.mp4
+
+
+https://d21enw5qmahbo0.cloudfront.net/maastrichtuniversity/media/2017/09/03/asset-2843662-1504465704635508.mp4
+
+
+- FASOS Programme video: Name of the student in the subtitles is wrongly spelled "Anupriya"
+
+- Add an outro- or end overlay at each video that says "Scroll down to continue"
+
+- Insert of Party people at the end of the clip should be replaced; Check inbox.
+
+- Show a stamp or sign that shows user already has passed or seen a chapter.
+
+- Ending of European Studies is too abrupt. 
+
+- Quizz Plugin: Multible choice answers do not show instant results
+
+
+
+4. October 
+
+Social Media editors: 13 people / 7 male / 6 female
+
+
+5. October
+
+Lotte meetup:
+- Rianne was not there anymore / video should be replaced with text about her
+- Wants to change the quizzes / will send wordfile and plans a follow up meeting
+- Wants to test it among 17 - 16 year olds / idea was to ask collegues 
+
+Meeting VOD Thursdays:
+- Update on the changelog and updating the M&C people 
+- Update from Ned on how to go about the usability tests 
+- - using google forms
+- - one person recording with phone
+- - test room
+- - 
+- Update on Bugfixes by Florian
+- Update Video's by Annabel and BBW player implementation
+- - One comment
+
+
+-- Change preferences 
+
+- Making the welcome station ready > Ask Theo to work on it.
+
+
+
+>> Book room for coming Thursdays
+>> Recap for Tour Guide App to team
+>> Answer Hristo to say okay and 
+
+11. October
+
+>> Send a email to alexander for usabillat. thank you.
+>> Send lotte an email about plan to talk with Tanja & X
+Meeting MOD Recap October 2017
+- SBE streamed the welcome presentation
+- FHML streamed the general presentation; Student assistent was sitting in the back and answered online send in questions;
+- FASOS was quiet 
+- Plan was to switch the bachelor open day dates with the one of the master open day
+
+Meeting about Anmeelder.nl
+- Mehr tests und mehr 
+
+
+
+21. December
+- Send Magda an email with CW and following requests:
+-- Make the wireframes for all six faculties in white and dark blue
+-- Send her also a call for a UX designer focused on mobile design / web design 
+-- Ask her to provide a logo for a chatbot / robot 
+
+- Send recap to Evelyn
+-- Integrate the PPP API into the bot as discussed
+-- Make the UM Sports schedule accessable programmatically
+-- Work on the presentation and prepare one proper for the SSC (client who ultimately needs to buy in on the project) 
+
+-- Implement a fallback method on one example of the FAQs with prompts to collect a user email address and forward it and the message per email to another mailbox (info@maastrichtuniversity.nl) that includes the conversation plus standard text
+
+- Discuss with Rick
+-- How to access the events programmatically for the Chatbot
+-- Pay the 25 Euro for Advice to https://www.paypal.me/PWHSoftware
+-- Discuss how to 
+
+- Send email to Jules
+-- Ask him if he can give me access to the code of the student portal to check how they retrieve the time tables and other content types
+-- Ask him what the answer form Maurice was and wish him MCM
+
+- Task for Theo
+-- Check the VOD and send me a list with the video ID's that have no subtitles 
+-- Write the texts for the SEO plugin for each programme and experience station to improve Search Engine Findability
+
+-- Task for Florian
+-- Check that correct sharing button URL is used / main page
+-- Ask him what the next big features should be
+
+- Tasks for Ned
+-- Go to the Library website and find all articles where Marshall Mcluhan is the author. Download a pdf or txt version, set the correct labels 
+
+- Task for Jeroen
+-- Ask if he still is looking for A/V reporters or a vlogger
+
+- Put into Jira
+-- Adjust the News and Events RSS feed to match Amazon Echo standards; include img tags; and remove special characters from title 
+
+- Todo for the VOD
+-- Connect to Webmaster tools
+-- Upload Sidemap
+-- Send an email to Nicole and Maia and one to all SA's 
+-- Send Martin an email with CW and decline the offer for further improving the VOD
+-- Plan an evaluation meeting for the end of January
+-- Make sure I get access to GA and send a custom report to everybody on a weekly basis
+
+
+
+- Planning for Shutterstock Image Selling
+-- Checkout the requirements
+-- Collect main footage or let it be collected (starting with Tessa shoot)
+-- Ask Magda to format the images in the correct formats 
 
 
 
